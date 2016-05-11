@@ -1,0 +1,54 @@
+m255
+K4
+z2
+13
+!s112 1.1
+!i10d 8192
+!i10e 25
+!i10f 100
+cModel Technology
+dC:/ProgramData/App-V/2191B702-5279-4048-91BA-BCF8F2A20B49/21710E5E-1DEB-4C76-9578-9609978C17F5/Root/examples
+vtrigger_logic
+Z0 DXx6 sv_std 3 std 0 22 <EOTafDcUY:cQeO^ICn]m3
+Z1 V`JN@9S9cnhjKRR_L]QIcM3
+r1
+!s85 0
+31
+!i10b 1
+!s100 HzFn]bcae`WBMccf:TlMN3
+IjBC:RPlDCkT1<Gek;XRl=3
+!s105 trigger_logic_sv_unit
+S1
+Z2 dI:/ece551/project/Trigger_Logic
+w1461533822
+8I:/ece551/project/Trigger_Logic/trigger_logic.sv
+FI:/ece551/project/Trigger_Logic/trigger_logic.sv
+L0 1
+Z3 OE;L;10.3c;59
+!s108 1461534626.839000
+!s107 I:/ece551/project/Trigger_Logic/trigger_logic.sv|
+!s90 -reportprogress|300|-work|work|-vopt|-sv|-stats=none|I:/ece551/project/Trigger_Logic/trigger_logic.sv|
+!i113 0
+Z4 o-work work -sv -L mtiAvm -L mtiOvm -L mtiUvm -L mtiUPF -L infact
+vtrigger_logic_tb
+R0
+R1
+r1
+!s85 0
+31
+!i10b 1
+!s100 I^ckYD=AG:K]aVSMAcdXM1
+Ie5`AgkQN>[bHH3FT1mdYA2
+!s105 trigger_logic_tb_sv_unit
+S1
+R2
+w1461534619
+8I:/ece551/project/Trigger_Logic/trigger_logic_tb.sv
+FI:/ece551/project/Trigger_Logic/trigger_logic_tb.sv
+L0 1
+R3
+!s108 1461534627.244000
+!s107 I:/ece551/project/Trigger_Logic/trigger_logic_tb.sv|
+!s90 -reportprogress|300|-work|work|-vopt|-sv|-stats=none|I:/ece551/project/Trigger_Logic/trigger_logic_tb.sv|
+!i113 0
+R4
