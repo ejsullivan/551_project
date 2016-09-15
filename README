@@ -1,0 +1,4 @@
+This is the Verilog source for a digital analyzer design I did for my digital design and synthisis (ECE 551)
+class at UW-Madison during the Spring 2016 semester. The analyzer has 5 channels for input data and each one can
+have its own trigger setting. Each channel can be set to on the positive/negitive edge or when the signal 
+goes high or low. The analyzer also supports protocol triggiring for SPI and UART interfaces.
